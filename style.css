@@ -17,6 +17,12 @@ td{
 
 
 .weekly, .monthly{
+    color: white;
     background-color: rebeccapurple;
     color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
