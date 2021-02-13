@@ -23,3 +23,19 @@ td{
     text-align: center;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+img{
+    width: 35px;
+}
